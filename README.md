@@ -1,4 +1,6 @@
-# Less Famine Mod 更少的饥饿
+# **THIS MOD HAS STOPPED BEING UPDATE AS I DO NOT WANNA KEEP DEVELOPING THIS PIECE OF SH*T.**
+
+# ~~Less Famine Mod 更少的饥饿~~
 ~~Don't Starve Reborn 不要饿死：重生 与其他联动模组的联动模组。~~  
 自0.0.2版本开始，这个模组改为一个独立的模组。  
 此模组把DSDR中的联动食物取出来，做成一个单独的模组。  
